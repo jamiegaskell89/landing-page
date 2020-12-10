@@ -1,2 +1,1 @@
-# landingpage
-Landing page for a blog
+For my third project from freecodecamp.com, I decided to create a landing page for a travel blog. With this page I initially found it quite challenging to create a responsive page, but I found it much easier to design a page for smaller screens first and then scale up.
